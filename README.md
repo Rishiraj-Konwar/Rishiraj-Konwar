@@ -8,13 +8,10 @@
    / __ )/ ____/ //_// | / / __ \ 
   / __  / /   / ,<  /  |/ / / / /      [ Tech Stack ] 
  / /_/ / /___/ /| |/ /|  / /_/ /       . Frameworks: .... Express Js, Spring Boot, Gin, Django, Fast api
-/_____/\____/_/ |_/_/ |_/_____/        . Databases: ..... Postgres Sql, Mysql, Mono Db, Cassandra Db. Redis
+/_____/\____/_/ |_/_/ |_/_____/        . Databases: ..... Postgres Sql, Mysql, Mono Db, Cassandra Db, Redis
                                        . Linux Distro: .. Arch Linux
 
                                        [ Contact ]
                                        . GitHub: ........ github.com/Rishiraj-Konwar
                                        . LinkedIn: ...... linkedin.com/in/rishiraj-konwar-150957273       
                                        . Email: ......... rrkrskkonwar@gmail.com
-                   
-                   
-                   
