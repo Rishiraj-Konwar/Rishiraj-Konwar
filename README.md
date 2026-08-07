@@ -1,16 +1,20 @@
-## Hi there 👋
+```text
+                                       rishi@backend -------------------------------------------
+                                       . OS: ....................... Human 22.0 LTS
+                                       . Uptime: ................... 2 years
+                                       . Location: ................. India
+                                       . Role: ..................... Backend Dev
+    ____  ________ __ _   ______       . IDE: ...................... Neovim, VS code
+   / __ )/ ____/ //_// | / / __ \ 
+  / __  / /   / ,<  /  |/ / / / /      . Tech Stack --------------------------------------------
+ / /_/ / /___/ /| |/ /|  / /_/ /       . Frameworks: ............... Express Js, Spring Boot, Gin, Django, Fast api
+/_____/\____/_/ |_/_/ |_/_____/        . Databases: ................ Postgres Sql, Mysql, Mono Db, Cassandra Db. Redis
+                                       . Linux Distro: ............. Arch Linux
 
-<!--
-**Rishiraj-Konwar/Rishiraj-Konwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                       - Contact ------------------------------------------------
+                                       . GitHub: ................... github.com/Rishiraj-Konwar
+                                       . LinkedIn: ................. linkedin.com/in/rishiraj-konwar-150957273       
+                                       . Email: .................... rrkrskkonwar@gmail.com
+                   
+                   
+                   
